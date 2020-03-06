@@ -9,7 +9,7 @@ namespace PingPong
         {
             Console.WriteLine("Please input a number");
             int input = int.Parse(Console.ReadLine());
-            int currentNumber = 0;
+            int currentNumber = 1;
 
             while(currentNumber <= input){
               if(currentNumber % 3 == 0 && currentNumber % 5 == 0){
@@ -24,9 +24,7 @@ namespace PingPong
               else{
                 Console.WriteLine(currentNumber);
               }
-
               currentNumber++;
-
             }
         }
     }
