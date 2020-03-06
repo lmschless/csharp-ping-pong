@@ -4,14 +4,23 @@ namespace PingPong
 {
     class PingPong
     {
-      // public int input;
-        static void Main()
-        {
-            Console.WriteLine("Please input a number");
-            int input = int.Parse(Console.ReadLine());
-            int currentNumber = 1;
+      private static int input; // use STATIC for local/global variables that can be passed between variables.
 
-            while(currentNumber <= input){
+        private static void Main()
+        {
+            GetNumber();
+            Run();
+        }
+
+         private static void GetNumber(){
+          Console.WriteLine("Please input a number");
+
+          // doesn't need int input = here because it's declared above.
+          input = int.Parse(Console.ReadLine());
+        }
+       private static void Run() {
+         int currentNumber = 1;
+          while(currentNumber <= input){
               if(currentNumber % 3 == 0 && currentNumber % 5 == 0){
                 Console.WriteLine("ping-pong");
               }
@@ -26,6 +35,6 @@ namespace PingPong
               }
               currentNumber++;
             }
-        }
+       }
     }
 }
