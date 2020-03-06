@@ -1,0 +1,10 @@
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/bin/Debug/netcoreapp3.1/ping-pong.deps.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/bin/Debug/netcoreapp3.1/ping-pong.runtimeconfig.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/bin/Debug/netcoreapp3.1/ping-pong.runtimeconfig.dev.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/bin/Debug/netcoreapp3.1/ping-pong.dll
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/bin/Debug/netcoreapp3.1/ping-pong.pdb
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/obj/Debug/netcoreapp3.1/ping-pong.csprojAssemblyReference.cache
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/obj/Debug/netcoreapp3.1/ping-pong.AssemblyInfoInputs.cache
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/obj/Debug/netcoreapp3.1/ping-pong.AssemblyInfo.cs
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/obj/Debug/netcoreapp3.1/ping-pong.dll
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/ping-pong/obj/Debug/netcoreapp3.1/ping-pong.pdb
